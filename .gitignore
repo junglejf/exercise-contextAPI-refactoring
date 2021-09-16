@@ -1,6 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+../../bloco-16-gerenciamento-de-estado-com-redux/
 /node_modules
 /.pnp
 .pnp.js
