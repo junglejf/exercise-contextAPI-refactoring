@@ -1,0 +1,6 @@
+- Como o disptach foi enviado para a props de App ? 
+
+- Como funciona o compose ? https://redux.js.org/api/compose
+
+- O Context pode ser usado como o reducer ? Um context para cada grupo de acções ? 
+Com base no exercício, teríamos 1 contextPOST e 1 contextSELECTED.
